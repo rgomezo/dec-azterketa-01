@@ -7,4 +7,10 @@ const usuarios = [
     { id: 6, nombre: 'Frank', edad:35,  correo: 'frank@example.com', activo: true}
 ];
 
+const tbody = querySelector() {
+   const tbody = id.querySelectorAll(
+
+
+   )
+}
 
